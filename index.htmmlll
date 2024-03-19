@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hakkımda</title>
+
+    <style>
+        #resim{
+            position: absolute;
+            bottom: 50px;
+            left: 400px;
+        }
+    </style>
+</head>
+<body>
+    
+   <!-- başlık -->
+    <h1>Mesut Buğra UYSAL</h1>
+   <!-- hakkımdakiler bölümü -->
+    <h3>Hakkımda</h3>
+    <p>Merhaba ben buğra Ekonomi ve Finans 2. sınıf öğrencisiyim web geliştirme alanında kendi geliştiriyorum ve bu alanda çalışmak istiyorum.</p><br>
+    <p></p>
+
+    <!--  hobiler bölümü -->
+
+    <h3>ilgi alanları</h3>
+    
+   <ol>
+    <li>dizi</li>
+    <ul style="list-style-type: circle; ">
+        
+        <li> <a href="https://www.imdb.com/title/tt0903747/">Breaking Bad</a> </li>
+        <li>Prison Break</li>
+    </ul>
+    <li>film</li>
+    <ul style="list-style-type: circle; " >
+     <li>Titanik</li>
+     <li>Esaretin bedeli</li>
+     <li>dövüş kulübü</li>
+
+    </ul>
+    <li>kitap</li>
+    <ul style="list-style-type: circle;">
+        <li> <a href="https://www.goodreads.com/book/show/9959528-sol-aya-m?ac=1&from_search=true&qid=NVxG11ksIN&rank=1 ">sol ayağım </a> </li>
+        <li>portakal ağacı</li>
+    </ul>
+   </ol>
+<div id="resim" >
+    <img src="c:\Users\buğra\Desktop\p8696131_b_h9_aa.jpg" >
+    <p> Vince Gilligan tarafından yaratılan ve 2008 ile 2013 yılları arasında AMC'de yayınlanan bir Amerikan televizyon dizisidir </p>
+
+
+</div>
+  
+
+
+    
+</body>
+</html>
